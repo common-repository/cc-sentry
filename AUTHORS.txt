@@ -1,0 +1,5 @@
+This file contains the list of people involved in the development of CC-Sentry along its history.
+
+Piotr Niewiadomski <http://piotr.press>
+
+Great thanks to Clearcode <https://clearcode.cc> for allowing releasing CC-Sentry as free software!

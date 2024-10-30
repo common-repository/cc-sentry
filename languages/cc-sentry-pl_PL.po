@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cc-popup\n"
+"POT-Creation-Date: 2017-09-22 13:39+0200\n"
+"PO-Revision-Date: 2017-09-22 14:23+0200\n"
+"Last-Translator: Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language-Team: Clearcode | Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-sentry.php:57 templates/settings-template.php:3
+msgid "Error Reporting Settings"
+msgstr "Ustawienia raportowania błędów"
+
+#: includes/class-sentry.php:58
+msgid "Sentry"
+msgstr "Sentry"
+
+#: includes/class-sentry.php:86
+msgid "Sentry DSN"
+msgstr "Sentry DSN"
+
+#: includes/class-sentry.php:102
+msgid "Error Levels"
+msgstr "Poziomy Błędów"
+
+#: includes/class-sentry.php:118
+msgid "Test"
+msgstr "Test"
+
+#: includes/class-sentry.php:128
+msgid "Sentry test connection"
+msgstr "Testuj połączenie z Sentry"
+
+#: includes/class-sentry.php:223
+msgid "Invalid Sentry DSN!"
+msgstr "Niepoprawny DNS Sentry!"
